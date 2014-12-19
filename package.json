@@ -1,0 +1,13 @@
+{
+  "license": "MIT",
+  "author": "Alejandro Beltrán",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1",
+    "mocha-better-spec-reporter": "^1.1.1"
+  },
+  "private": true
+}

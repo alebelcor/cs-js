@@ -27,3 +27,5 @@ nbproject
 .svn
 .CVS
 .idea
+
+node_modules
